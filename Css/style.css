@@ -80,7 +80,7 @@ midheader {
 
 }
 
-@media (min-width: 1450px) {
+@media (min-width: 800px) {
   .maincontainer {
     font-size: .937rem;
     height: 28.5rem;
